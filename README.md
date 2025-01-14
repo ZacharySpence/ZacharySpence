@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### Table of Contents
+## About me in 30 seconds
+## Table of Contents
 - [About Me](#about-me)
 - [Games](#games)
 - [Current Projects](#current-projects)
