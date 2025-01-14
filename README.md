@@ -1,4 +1,13 @@
 ## Hi there 👋
+## Table of Contents
+- [About Me](#about-me-in-30-seconds)
+- [Games](#games)
+- [Current Projects](#current-project)
+- [Resume](#resume)
+- [Contact](#contact)
+
+
+
 
 ## About me in 30 seconds
 - 👨‍🎓 Bsc in Computer Science with 6 years professional experience teaching coding
@@ -6,14 +15,15 @@
 - 🧩 Love a puzzle and finding solutions to them, regularly try to recreate mechanics from games I see and love
 - 📓 Notebook kind of guy - Burn through a few a year with GDD's, dnd adventures, test plans, written fictions
 
-## Table of Contents
-- [About Me](#about-me)
-- [Games](#games)
-- [Current Projects](#current-projects)
-- [Resume](#resume)
-- [Contact](#contact)
 
-  
+
+## Games
+
+## Current Project
+
+## Resume
+
+## Contact
 <!--
 ```c#
   if(var this == bool working){
