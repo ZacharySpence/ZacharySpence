@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Table of Contents
+- [About Me](#about-me)
+- [Games](#games)
+- [Current Projects](#current-projects)
+- [Resume](#resume)
+- [Contact](#contact)
 <!--
 **ZacharySpence/ZacharySpence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
