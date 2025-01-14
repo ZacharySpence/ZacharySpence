@@ -1,8 +1,15 @@
-## Hi there 👋
+## 
+```c#
+bool readingThis = true;
+if(readingThis)
+{
+    Debug.Log("Hello and welcome to my portfolio!");
+}
+```
+
 ## Table of Contents
-- [About Me](#about-me-in-30-seconds)
+- [About Me in 30 seconds](#about-me-in-30-seconds)
 - [Games](#games)
-- [Current Projects](#current-project)
 - [Resume](#resume)
 - [Contact](#contact)
 
@@ -11,19 +18,23 @@
 
 ## About me in 30 seconds
 - 👨‍🎓 Bsc in Computer Science with 6 years professional experience teaching coding
-- 💻 Transitioned to Game development in 2023 after making SC2 arcade games
-- 🧩 Love a puzzle and finding solutions to them, regularly try to recreate mechanics from games I see and love
+- 💻 Transitioned to Game development in 2023 after making SC2 arcade games and deciding on a career change
+- 🧩 Love a puzzle and finding solutions to them, regularly try to recreate mechanics from games I see
 - 📓 Notebook kind of guy - Burn through a few a year with GDD's, dnd adventures, test plans, written fictions
 
 
 
 ## Games
+<!-- gif -> popout quick description -> video -> main features -> screenshot -->
 
-## Current Project
 
 ## Resume
-
+- Bsc Computer Science
+- Juniour Unity Game Developer Certificate
+<!-- Skill -> languages, game dev, tools  & framework, work experience (teams!)-->
 ## Contact
+- Itch.io: https://mardook-stone.itch.io/
+- Email: Zachary.p.Spence@gmail.com
 <!--
 ```c#
   if(var this == bool working){
