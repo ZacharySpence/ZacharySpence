@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ## About me in 30 seconds
-👨‍🎓 Bsc in Computer Science
-💻 Transitioned to Game development in 2023 after making SC2 arcade games
-🧩 Love a puzzle and finding solutions to them, regularly try to recreate mechanics from games I see and love
-📓 Notebook kind of guy - Burn through a few a year with GDD's, dnd adventures, test plans, written fictions
+- 👨‍🎓 Bsc in Computer Science with 6 years professional experience teaching coding
+- 💻 Transitioned to Game development in 2023 after making SC2 arcade games
+- 🧩 Love a puzzle and finding solutions to them, regularly try to recreate mechanics from games I see and love
+- 📓 Notebook kind of guy - Burn through a few a year with GDD's, dnd adventures, test plans, written fictions
 
 ## Table of Contents
 - [About Me](#about-me)
