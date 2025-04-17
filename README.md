@@ -26,7 +26,7 @@ if(readingThis)
 
 ## Games
 <!-- gif -> popout quick description -> video -> main features -> screenshot -->
-
+Building them as we speak. visit my Itch below to see some game-jam/random projects of mine!
 
 ## Resume
 - Bsc Computer Science
